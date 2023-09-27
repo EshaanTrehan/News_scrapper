@@ -34,6 +34,7 @@ Introducing **News Scrapper**, a Python-based tool designed to fetch, process, a
 - **Data Source**: News data is sourced from Bloomberg using the NewsAPI.
 - **Data Storage**: Extracted news articles are initially stored as JSON and then converted to CSV for further processing.
 - **Data Cleaning**: The application employs pandas for data cleaning, ensuring a refined dataset free of unnecessary columns and duplicates.
+- 
 
 ## 🧪 Testing
 
